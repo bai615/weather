@@ -2,7 +2,6 @@
 
 namespace Bai615\Weather;
 
-
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     protected $defer = true;
